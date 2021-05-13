@@ -15,3 +15,8 @@
 ^_pkgdown\.yml$
 ^CODE_OF_CONDUCT\.md$
 ^man-roxygen$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
